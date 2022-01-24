@@ -14,7 +14,7 @@ Este repositório tem como objetivo centralizar os resumos e anotações escrito
 | *- Lógica de Programação Essencial*                          | Concluido                                                    |
 | *- Aprenda o que são Estrutura de Dados e Algoritmos*        | Concluido                                                    |
 | *- Introdução ao Git e ao GitHub*                            | Concluido                                                    |
-| *- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso* | É esse aqui 🙂...                                             |
+| *- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso* | É esse aqui 😀...                          |
 | - Introdução ao Ecossistema .NET e Documentação              | Concluido                                                    |
 | *- Criando o ambiente de desenvolvimento*                    | Concluido                                                    |
 | *- IDE Instalação e Configuração (Visual Studio Code)*       | Concluido                                                    |
@@ -22,7 +22,7 @@ Este repositório tem como objetivo centralizar os resumos e anotações escrito
 | *- Trabalhando com Tipos de Referência e Valor em C#*        | Em andamento                                                 |
 | *- Controlando o Fluxo de Execução*                          |                                                              |
 | *- Desafios Iniciais - GFT Start #3 .NET*                    | Concluido                                                    |
-| *- Abstraindo um Jogo de RPG Usando Orientação a Objetos*    | Link do repositório                                          |
+| *- Abstraindo um Jogo de RPG Usando Orientação a Objetos*    | [Link do repositório](https://github.com/BR-Darkness/Projeto_RPG_Bootcamp_GFT_Start_3) |
 | *- Introdução ao HTTP/HTTPS*                                 |                                                              |
 | *- Trabalhando com Arquivos e Streams em C#*                 |                                                              |
 | *- Construtores, Propriedades, Delegates e Eventos em .NET*  |                                                              |
