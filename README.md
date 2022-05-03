@@ -11,28 +11,28 @@ Este repositório tem como objetivo centralizar os resumos e anotações escrito
 
 | Curso/Matéria                                                | Status/Link                                                  |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| *- Lógica de Programação Essencial*                          | Concluido                                                    |
-| *- Aprenda o que são Estrutura de Dados e Algoritmos*        | Concluido                                                    |
-| *- Introdução ao Git e ao GitHub*                            | Concluido                                                    |
+| *- Lógica de Programação Essencial*                          | Concluído                                                    |
+| *- Aprenda o que são Estrutura de Dados e Algoritmos*        | Concluído                                                    |
+| *- Introdução ao Git e ao GitHub*                            | Concluído                                                    |
 | *- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso* | É esse aqui 😀...                          |
-| - Introdução ao Ecossistema .NET e Documentação              | Concluido                                                    |
-| *- Criando o ambiente de desenvolvimento*                    | Concluido                                                    |
-| *- IDE Instalação e Configuração (Visual Studio Code)*       | Concluido                                                    |
-| *- Primeiros passos com .NET*                                | Concluido                                                    |
-| *- Trabalhando com Tipos de Referência e Valor em C#*        | Em andamento                                                 |
-| *- Controlando o Fluxo de Execução*                          |                                                              |
+| - Introdução ao Ecossistema .NET e Documentação              | Concluído                                                    |
+| *- Criando o ambiente de desenvolvimento*                    | Concluído                                                    |
+| *- IDE Instalação e Configuração (Visual Studio Code)*       | Concluído                                                    |
+| *- Primeiros passos com .NET*                                | Concluído                                                    |
+| *- Trabalhando com Tipos de Referência e Valor em C#*        | Concluído                                                    |
+| *- Controlando o Fluxo de Execução*                          | Concluído                                                    |
 | *- Desafios Iniciais - GFT Start #3 .NET*                    | Concluido                                                    |
 | *- Abstraindo um Jogo de RPG Usando Orientação a Objetos*    | [Link do repositório](https://github.com/BR-Darkness/Projeto_RPG_Bootcamp_GFT_Start_3) |
-| *- Introdução ao HTTP/HTTPS*                                 |                                                              |
-| *- Trabalhando com Arquivos e Streams em C#*                 |                                                              |
-| *- Construtores, Propriedades, Delegates e Eventos em .NET*  |                                                              |
-| *- Programando com Orientação a Objeto com C#*               |                                                              |
-| *- Fundamentos de Coleções e LINQ com .NET*                  |                                                              |
-| *- Tratamento de Erro em C# com Exceptions*                  | Em andamento                                                 |
+| *- Introdução ao HTTP/HTTPS*                                 | Concluído                                                    |
+| *- Trabalhando com Arquivos e Streams em C#*                 | Concluído                                                    |
+| *- Construtores, Propriedades, Delegates e Eventos em .NET*  | Concluído                                                    |
+| *- Programando com Orientação a Objeto com C#*               | Concluído                                                    |
+| *- Fundamentos de Coleções e LINQ com .NET*                  | Concluído                                                    |
+| *- Tratamento de Erro em C# com Exceptions*                  | Concluído                                                    |
 | *- Desenvolvimento de aplicações com .NET*                   | Concluido                                                    |
 | *- Configuração da arquitetura back-end com .NET Core*       | Concluido                                                    |
 | *- Criando um APP simples de cadastro de séries em .NET*     | [Link do repositório](https://github.com/BR-Darkness/Projeto_Bootcamp_GFT_Cadastro_Series) |
-| *- Desafios Básicos - GFT Start #3 .NET*                     |                                                              |
+| *- Desafios Básicos - GFT Start #3 .NET*                     | Concluído                                                              |
 
 
 
